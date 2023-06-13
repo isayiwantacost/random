@@ -6,9 +6,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:url" content="https://isayiwantacost.github.io/contact.html">
-    <meta property="og:title" content="my about page!!!!!!!!!!11">
-    <meta property="og:description" content="It's a contact page, nothing else.">
+    <meta property="og:url" content="https://isayiwantacost.github.io/">
+    <meta property="og:title" content="under">
+    <meta property="og:description" content="construction">
     <link rel="stylesheet" href="sassss.css">
         <style>
 
@@ -31,7 +31,10 @@ body {
 <br>
     <hr> </hr>
      The website is going under construction. Check back later!
+     <br>
      <a href="https://github.com/isayiwantacost"> Meanwhile, check out my other projects. </a>
+     <br>
+     <hr> </hr>
 </center>
 </body>
 </html>
