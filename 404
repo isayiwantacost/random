@@ -2,39 +2,19 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title> 404 | PAGE NOT FOUND LUL </title>
+    <title> Requested page not found | ERROR 404 </title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:url" content="https://isayiwantacost.github.io/">
-    <meta property="og:title" content="under">
-    <meta property="og:description" content="construction">
-    <link rel="stylesheet" href="sassss.css">
-        <style>
-
-body {
-  background-color: #fff;
-  background-size: 100% 1.2em;
-  background-image: -webkit-linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), -webkit-linear-gradient(#eee .05em, transparent .05em);
-  background-image: -moz-linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), -moz-linear-gradient(#eee .05em, transparent .05em);
-  background-image: -ms-linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), -ms-linear-gradient(#eee .05em, transparent .05em);
-  background-image: -o-linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), -o-linear-gradient(#eee .05em, transparent .05em);
-  background-image: linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), linear-gradient(#eee .05em, transparent .05em);
-  -pie-background: linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px) 0 0 / 100% 1.2em, linear-gradient(#eee .05em, transparent .05em) 0 0 / 100% 1.2em #fff;
-  behavior: url(/PIE.htc);
-}
-</style>
+    <meta property="og:title" content="ERROR 404">
+    <meta property="og:description" content="Page not found on SRC Server.">
 
 </head>
 <body>
-    <center>
 <br>
-    <hr> </hr>
      ERROR 404 | Page not found/does not exist
      <br>
      <a href="https://isayiwantacost.github.io"> If you stumbled upon this page, you probably got a wrong link. Click on this to go back to the homepage! :) </a>
      <br>
-     <hr> </hr>
-</center>
 </body>
 </html>
